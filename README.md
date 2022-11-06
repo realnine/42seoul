@@ -14,3 +14,9 @@
 | 7 | [minishell](https://github.com/realnine/minishell) | [![jinglee's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2253350)](https://github.com/JaeSeoKim/badge42) |
 | 8 | [cub3d (team_2인)](https://github.com/m1n-q/cub3D) | [![jinglee's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2062894)](https://github.com/JaeSeoKim/badge42) |
 | 9 | [cppmodule]() | |
+
+## EXAM
+| Num | Project | Satus |
+|:---:|:---|:---|
+| 0 | [exam02](https://github.com/realnine/exam2) | passed |
+| 1 | [exam03](https://github.com/realnine/exam03) | passed |
