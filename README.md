@@ -9,3 +9,8 @@
 | 2 | [ft_printf](https://github.com/realnine/ft_printf) |
 | 3 | [push_swap](https://github.com/realnine/push_swap) |
 | 4 | [minitalk](https://github.com/realnine/minitalk) |
+| 5 | [so_long](https://github.com/realnine/so_long) |
+| 6 | [philosophers](https://github.com/realnine/philosophers) |
+| 7 | [minishell](https://github.com/realnine/minishell) |
+| 8 | [cube3d]() |
+| 9 | [cppmodule]() |
