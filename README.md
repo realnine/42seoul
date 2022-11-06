@@ -11,6 +11,6 @@
 | 4 | [minitalk](https://github.com/realnine/minitalk) | [![jinglee's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2062894)](https://github.com/JaeSeoKim/badge42) |
 | 5 | [so_long](https://github.com/realnine/so_long) | [![jinglee's 42 so_long Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2062894)](https://github.com/JaeSeoKim/badge42) |
 | 6 | [philosophers](https://github.com/realnine/philosophers) | [![jinglee's 42 philosophers Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2209253)](https://github.com/JaeSeoKim/badge42) |
-| 7 | [minishell](https://github.com/realnine/minishell) | [![jinglee's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2253350)](https://github.com/JaeSeoKim/badge42) |
-| 8 | [cub3d]() | [![jinglee's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2062894)](https://github.com/JaeSeoKim/badge42) |
+| 7 | [minishell)](https://github.com/realnine/minishell) | [![jinglee's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2253350)](https://github.com/JaeSeoKim/badge42) |
+| 8 | [cub3d (team_2)](https://github.com/m1n-q/cub3D) | [![jinglee's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2062894)](https://github.com/JaeSeoKim/badge42) |
 | 9 | [cppmodule]() | |
