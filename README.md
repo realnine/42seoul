@@ -3,7 +3,7 @@
 
 ## PROJECT
 | Num | Project | Score |
-|:---:|:---|:---|
+|:---:|:-----|:---|
 | 0 | [Libft](https://github.com/realnine/libft) | [![jinglee's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2062894)](https://github.com/JaeSeoKim/badge42) |
 | 1 | [get-next-line](https://github.com/realnine/get_next_line) | [![jinglee's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2094812)](https://github.com/JaeSeoKim/badge42) |
 | 2 | [ft_printf](https://github.com/realnine/ft_printf) | [![jinglee's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4y1pp7c000609l7rq2dr3sn/project/2122785)](https://github.com/JaeSeoKim/badge42) |
